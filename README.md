@@ -1,4 +1,4 @@
-# calc_pro
+# smartor
 
 Smart, Powerful, and Convenient Calculator!
 
