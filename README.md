@@ -1,4 +1,4 @@
-# smartor
+# Smartor
 
 Smart, Powerful, and Convenient Calculator!
 
